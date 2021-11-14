@@ -1,0 +1,89 @@
+{
+  "furniture": [
+    {
+      "id": "1",
+      "title": "Kede",
+      "type": "chair",
+      "price": 60,
+      "location": {
+        "country": "Lietuva",
+        "city": "Vilnius",
+        "street": "Gedimino"
+      },
+      "owner": {
+        "fullname": "Jonas",
+        "mobile": "860584755",
+        "address": "Vilniaus g. 1.",
+        "email": "jonas@medinis.lt"
+      }
+    },
+    {
+      "id": "2",
+      "title": "Stalas",
+      "type": "table",
+      "price": 300,
+      "location": {
+        "country": "Lietuva",
+        "city": "Kaunas",
+        "street": "Silainiu g."
+      },
+      "owner": {
+        "fullname": "Tomas",
+        "mobile": "860486788",
+        "address": "Silainiu g. 24",
+        "email": "Lygus@kampas.lt"
+      }
+    },
+    {
+      "id": "3",
+      "title": "Lova",
+      "type": "bed",
+      "price": 500,
+      "location": {
+        "country": "Lietuva",
+        "city": "Klaipeda",
+        "street": "Klaipedos g. 12"
+      },
+      "owner": {
+        "fullname": "Klaipedietis",
+        "mobile": "865939655",
+        "address": "Smelio g. 18",
+        "email": "labas@kvakaras.lt"
+      }
+    },
+    {
+      "id": "4",
+      "title": "Sedmaisis",
+      "type": "sofa",
+      "price": 60,
+      "location": {
+        "country": "Lietuva",
+        "city": "Vilnius",
+        "street": "Kauno g. 1"
+      },
+      "owner": {
+        "fullname": "Rasa",
+        "mobile": "863656285",
+        "address": "Rasos kelias 1",
+        "email": "rasa@rasele.lt"
+      }
+    },
+    {
+      "id": "5",
+      "title": "Spinta",
+      "type": "wardrobe",
+      "price": 140,
+      "location": {
+        "country": "Lietuva",
+        "city": "Kaunas",
+        "street": "Spintu g. 11"
+      },
+      "owner": {
+        "fullname": "Lukas",
+        "mobile": "866721431",
+        "address": "Lentynos pr. 129",
+        "email": "lukas@lukas.lt"
+      }
+    }
+  ]
+}
