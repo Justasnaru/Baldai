@@ -4,34 +4,34 @@
       "id": "1",
       "title": "Kede",
       "type": "chair",
-      "price": 60,
+      "price": 80,
       "location": {
         "country": "Lietuva",
         "city": "Vilnius",
-        "street": "Gedimino"
+        "street": "Kauno g. 1"
       },
       "owner": {
-        "fullname": "Jonas",
-        "mobile": "860584755",
-        "address": "Vilniaus g. 1.",
-        "email": "jonas@medinis.lt"
+        "fullname": "Rasa",
+        "mobile": "863656285",
+        "address": "Rasos kelias 1",
+        "email": "rasa@rasele.lt"
       }
     },
     {
       "id": "2",
       "title": "Stalas",
       "type": "table",
-      "price": 300,
+      "price": 570,
       "location": {
         "country": "Lietuva",
         "city": "Kaunas",
-        "street": "Silainiu g."
+        "street": "Spintu g. 11"
       },
       "owner": {
-        "fullname": "Tomas",
-        "mobile": "860486788",
-        "address": "Silainiu g. 24",
-        "email": "Lygus@kampas.lt"
+        "fullname": "Lukas",
+        "mobile": "866721431",
+        "address": "Lentynos pr. 129",
+        "email": "lukas@lukas.lt"
       }
     },
     {
